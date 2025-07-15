@@ -152,3 +152,5 @@ languages:
 ## About Me
 
 I am a master's student at Columbia University Department of Biomedical Informatics. I am working on clinical informatics advised by Dr. Sarah Rossetti. I received my bachelor's degree from Emory University with a double major in Quantitaive Sciences and Information Systems and Management Sciences.
+
+---
